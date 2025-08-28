@@ -36,8 +36,8 @@ chmod +x flutter_wireless.sh
 
  ```
 ## Usage
-1.Plug in your Android device via USB.
-``
+1.Plug in your Android device via USB
+-
 2.Run the script:
 
 ```sh
