@@ -26,8 +26,8 @@ A simple script that automatically detects when an Android device is plugged in 
 1. Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/flutter-wireless-adb.git
-cd flutter-wireless-adb 
+git clone https://github.com/itsdevmj/flutter-connect.git
+cd flutter-connect 
 ```
 2.Make the script executable:
 
