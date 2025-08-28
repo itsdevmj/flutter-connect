@@ -27,4 +27,23 @@ A simple script that automatically detects when an Android device is plugged in 
 
 ```sh
 git clone https://github.com/yourusername/flutter-wireless-adb.git
-cd flutter-wireless-adb
+cd flutter-wireless-adb 
+```
+2.Make the script executable:
+
+```sh
+chmod +x flutter_wireless.sh
+
+ ```
+## Usage
+1.Plug in your Android device via USB.
+2.Run the script:
+
+```sh
+./flutter_connect.sh
+```
+### The script will:
+-Wait for your device
+-Detect its IP address
+-Enable TCP/IP mode on port 5555
+-Connect wirelessly
