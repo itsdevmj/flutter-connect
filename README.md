@@ -37,13 +37,14 @@ chmod +x flutter_wireless.sh
  ```
 ## Usage
 1.Plug in your Android device via USB.
+``
 2.Run the script:
 
 ```sh
 ./flutter_connect.sh
 ```
 ### The script will:
--Wait for your device
--Detect its IP address
--Enable TCP/IP mode on port 5555
--Connect wirelessly
+- Wait for your device
+- Detect its IP address
+- Enable TCP/IP mode on port 5555
+- Connect wirelessly
