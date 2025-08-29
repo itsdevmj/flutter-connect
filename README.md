@@ -32,7 +32,7 @@ cd flutter-connect
 2.Make the script executable:
 
 ```sh
-chmod +x flutter_wireless.sh
+chmod +x flutter_connect.sh
 
  ```
 ## Usage
